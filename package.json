@@ -1,6 +1,6 @@
 {
-  "name": "y-protocols",
-  "version": "1.0.5",
+  "name": "@dalperin/y-protocols",
+  "version": "1.0.6",
   "description": "Yjs encoding protocols",
   "type": "module",
   "funding": {
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yjs/y-protocols.git"
+    "url": "git+https://github.com/DAlperin/y-protocols.git"
   },
   "keywords": [
     "Yjs"
@@ -64,7 +64,7 @@
     }
   },
   "dependencies": {
-    "lib0": "^0.2.42"
+    "@dalperin/lib0": "^0.2.43"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.1.0",

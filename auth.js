@@ -1,7 +1,7 @@
 
 import * as Y from 'yjs' // eslint-disable-line
-import * as encoding from 'lib0/encoding'
-import * as decoding from 'lib0/decoding'
+import * as encoding from '@dalperin/encoding'
+import * as decoding from '@dalperin/decoding'
 
 export const messagePermissionDenied = 0
 

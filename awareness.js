@@ -2,12 +2,12 @@
  * @module awareness-protocol
  */
 
-import * as encoding from 'lib0/encoding'
-import * as decoding from 'lib0/decoding'
-import * as time from 'lib0/time'
-import * as math from 'lib0/math'
-import { Observable } from 'lib0/observable'
-import * as f from 'lib0/function'
+import * as encoding from '@dalperin/encoding'
+import * as decoding from '@dalperin/decoding'
+import * as time from '@dalperin/time'
+import * as math from '@dalperin/math'
+import { Observable } from '@dalperin/observable'
+import * as f from '@dalperin/function'
 import * as Y from 'yjs' // eslint-disable-line
 
 export const outdatedTimeout = 30000

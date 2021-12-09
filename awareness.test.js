@@ -1,6 +1,6 @@
 
 import * as Y from 'yjs'
-import * as t from 'lib0/testing'
+import * as t from '@dalperin/testing'
 import * as awareness from './awareness'
 
 /**

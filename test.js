@@ -1,8 +1,8 @@
-import { runTests } from 'lib0/testing'
-import * as log from 'lib0/logging'
+import { runTests } from '@dalperin/testing'
+import * as log from '@dalperin/logging'
 import * as awareness from './awareness.test.js'
 
-import { isBrowser, isNode } from 'lib0/environment'
+import { isBrowser, isNode } from '@dalperin/environment'
 
 /* istanbul ignore if */
 if (isBrowser) {
